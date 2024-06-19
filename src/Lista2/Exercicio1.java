@@ -8,7 +8,6 @@ public class Exercicio1 {
                 System.out.println(i);
             }
             i++;
-            ;
         }
     }
 }
